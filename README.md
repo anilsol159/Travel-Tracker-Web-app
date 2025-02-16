@@ -1,7 +1,7 @@
 # 🌍 Travel Tracker Web App  
 
 ## 📌 Overview  
-The **Travel Tracker** is a web application that allows users to **mark countries** they have visited on a **world map**. It is built using **Node.js, Express, PostgreSQL, and a mapping library like Leaflet.js or Google Maps API**.  
+The **Travel Tracker** is a web application that allows users to **mark countries** they have visited on a **world map**. It is built using **Node.js, Express, PostgreSQL.  
 
 ## 🖼 Screenshot  
 ![Travel Tracker Screenshot](image.png)  
